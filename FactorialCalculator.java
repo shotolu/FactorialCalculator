@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FactorialCalculator {
     public static void main(String[] args) {
-        Scanner scanne = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a non-negative integer: ");
         int number = scanner.nextInt();
 
